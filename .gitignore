@@ -1,3 +1,11 @@
 ## Algorithm git ignore ##
 
 *.bin
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
