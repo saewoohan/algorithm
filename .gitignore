@@ -1,6 +1,5 @@
 ## Algorithm git ignore ##
 
-*.bin
 # Ignore all
 *
 
@@ -9,3 +8,5 @@
 
 # Unignore all dirs
 !*/
+
+*.bin
